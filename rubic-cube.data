@@ -1,0 +1,5 @@
+classes= 1  
+train  = /home/JAIS/Desktop/deep_learning/object_detect_yolo/custom-object/train.txt  
+valid  = /home/JAIS/Desktop/deep_learning/object_detect_yolo/custom-object/test.txt  
+names = /home/JAIS/Desktop/deep_learning/object_detect_yolo/custom-object/objects.names  
+backup = /home/JAIS/Desktop/deep_learning/object_detect_yolo/custom-object/weights/
